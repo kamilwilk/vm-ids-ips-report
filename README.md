@@ -6,8 +6,6 @@
 
 ### Dependencies:
 * Python 2.7
-* pip (Python package manager)
-  https://pip.pypa.io/en/latest/installing/#using-package-managers
 * pyvmomi (vSphere API available on GitHub and through pip)
   https://github.com/vmware/pyvmomi
 * qualysapi (Qualys API available on GitHub and through pip)
